@@ -1,0 +1,119 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#header {
+    background-color: white;
+    padding: 25px;
+    margin: 0px;
+}
+#logo img {
+    padding-left: 70px;
+    width: 30px;
+}
+#barrerecherche {
+    margin-left: 140px;
+    margin-top: -45px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    
+}
+#barrerecherche img{
+    width: 25px;
+}
+input {
+    padding: 8px 25px;
+    background: transparent;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 20px;
+}
+.btn-search {
+    background: none;
+    border: none;
+    color: red;
+    cursor: pointer;
+}
+#faqtrackorder ul {
+    margin: 0px;
+    padding: 10px;
+    text-align: right;
+    text-indent: 30px;
+    margin-right: 25%;
+    margin-top: -3%;
+}
+#faqtrackorder a {
+    padding: 0px;
+    
+}
+#faqtrackorder a :hover{
+    cursor: pointer;
+}
+#faqtrackorder li { 
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    display: inline-flex;
+    width: -10px;
+}
+#panier img {
+    position: absolute;
+    right: 260px;
+    width: 40px;
+    margin-top: -3%;
+    cursor: pointer;
+
+}
+.header-buttons {
+    margin-top: -2%;
+}
+.btn {
+    padding: 10px 20px;
+    background-color: red;
+    color: black;
+    text-decoration: none;
+    border-radius: 16px;
+    font-size: 15px;
+    
+    
+}
+.btn-signin {
+    cursor: pointer;
+    margin-left: 85%;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    
+}
+#nav {
+    background-color: rgb(243, 222, 222);
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+
+}
+#nav ul {
+    margin: 0px;
+    padding: 10px;
+}
+#nav a {
+    padding: 20px;
+}
+#nav li {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    
+}
+#main {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+#main img {
+    padding: 0px 30px 0px 100px;
+    height: 600px;
+    width: 85%;
+}
